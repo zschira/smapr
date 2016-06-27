@@ -4,7 +4,7 @@ Title: Acquisition and Processing of NASA Soil Moisture Active-Passive (SMAP) da
 Version: 0.0.0.9000
 Author: Maxwell B. Joseph, Matthew Oakley, Zachary Schira
 Depends:
-    R (>= 3.2.5)
+    R (>= 3.2.0)
 Imports:
     curl (>= 0.9.7),
     httr (>= 1.1.0),
